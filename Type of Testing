@@ -1,8 +1,9 @@
-– Unit Testing
-■ What is unit Testing?
-■ Unit Testing is conducted by
+System testing
+■ What is system Testing?
+■ System Testing is conducted by checking if the integrated product meets the specified requirements.
 ■ It is type of (blackbox/whitebox testing)
-– Integration Testing
-■ What is Integration Testing?
-■ Integration Testing is conducted by
+– Acceptance testing
+■ What is acceptance Testing?
+■ Acceptance Testing is conducted by evaluating and validate that the system’s functionality meets the customer’s requirements, standards and business needs before the final delivery.
 ■ It is type of (blackbox/whitebox testing)
+
